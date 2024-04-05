@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_13792_brightspee.BrightSpeedO2Connetion</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>BrightSpeedO2Connetion</name>
+        <script><![CDATA[var BrightSpeedO2Connetion = Class.create();
+BrightSpeedO2Connetion.prototype = {
+    initialize: function() {
+    },
+
+
+Createo2 :function(){
+
+
+
+},
+    type: 'BrightSpeedO2Connetion'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-05 18:10:46</sys_created_on>
+        <sys_id>a825a0c347d10210bea54db3416d437e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BrightSpeedO2Connetion</sys_name>
+        <sys_package display_value="BrightSpeed GitHub Demo" source="x_13792_brightspee">6654244747110210bea54db3416d4349</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="BrightSpeed GitHub Demo">6654244747110210bea54db3416d4349</sys_scope>
+        <sys_update_name>sys_script_include_a825a0c347d10210bea54db3416d437e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-05 18:10:46</sys_updated_on>
+    </sys_script_include>
+</record_update>
